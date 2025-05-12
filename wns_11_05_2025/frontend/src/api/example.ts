@@ -41,3 +41,12 @@ export const ADD_COUNTRY = gql`
     }
   }
 `;
+
+export const GET_CONTINENTS = gql`
+  query {
+    continents {
+      id
+      name
+    }
+  }
+`;
