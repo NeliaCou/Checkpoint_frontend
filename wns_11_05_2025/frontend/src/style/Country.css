@@ -1,0 +1,14 @@
+.country-detail {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.country-detail h2 {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+}
+
+.country-detail p {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
